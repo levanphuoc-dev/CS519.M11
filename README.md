@@ -7,3 +7,4 @@
 <!-- Title -->
 <h1 align="center"><b>CS519.M11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
 <h1 align="center"><b>LÊ VĂN PHƯỚC - 19522054 - KHMT2019</b></h1>
+<h1 align="center"><b>VŨ QUỐC HUY - 19521642 - KHMT2019</b></h1>
