@@ -15,7 +15,6 @@
 * **Giảng viên:** **Lê Đình Duy** - *duyld@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
-* **Số thứ tự nhóm:** 2
 
 | STT | Họ tên | MSSV | Vai trò | 
 | :---: | --- | --- | --- | 
