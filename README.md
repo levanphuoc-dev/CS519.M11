@@ -6,5 +6,18 @@
 </p>
 <!-- Title -->
 <h1 align="center"><b>CS519.M11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
-<h1 align="center"><b>LÊ VĂN PHƯỚC - 19522054 - KHMT2019</b></h1>
-<h1 align="center"><b>VŨ QUỐC HUY - 19521642 - KHMT2019</b></h1>
+
+## GIỚI THIỆU MÔN HỌC
+* **Tên môn học:** PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC
+* **Mã môn học:** CS519
+* **Mã lớp:** CS519.M11
+* **Năm học:** HK1 (2021 - 2022)
+* **Giảng viên:** **Lê Đình Duy** - *duyld@uit.edu.vn*
+
+## GIỚI THIỆU NHÓM
+* **Số thứ tự nhóm:** 2
+
+| STT | Họ tên | MSSV | Vai trò | 
+| :---: | --- | --- | --- | 
+| 1 | Lê Văn Phước | 19522054 | Nhóm trưởng | 
+| 2 | Vũ Quốc Huy | 19521642 | Thành viên |
